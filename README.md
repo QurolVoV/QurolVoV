@@ -1,9 +1,11 @@
 # Hi 👋, I'm Qurol
 
-### WElcome to My GitHub Profile
+### Welcome to My GitHub Profile
+- ⚡ Fun fact **Seeing is believing, for your self only**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QurolVoV&label=Profile views&color=0e75b6&style=flat" alt="QurolVoV" /> </p>
+- 📝 I Sometimes write articles on **[http://linktr.ee/veiluponveil](http://linktr.ee/veiluponveil)**
 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QurolVoV" alt="QurolVoV" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
