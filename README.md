@@ -1,8 +1,12 @@
-# Hi 👋, I'm Qurol
+# Hi 👋, I'm QurolVoV
 
 ### 👨‍💻 **Developer & Creator** | 🛡️ Cyber Security Specialist | IT since 2005
 > Welcome to my space. I leverage two decades of IT experience to focus on building and securing resilient systems.
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=QurolVoV&label=Profile views&color=0e75b6&style=flat" alt="QurolVoV" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QurolVoV" alt="QurolVoV" /></a> </p>
+
 
 ### 🚀 About Me
 
@@ -11,7 +15,7 @@
 * 🚀 **Current Focus:** Developing high-performance, fault-tolerant applications using **Phoenix Framework** and **Elixir**.
 * 🌐 **Currently Exploring:** New cloud architectures and efficient development pipelines.
 * 🌱 **Looking to Collaborate** on projects involving.
-
+- 📫 How to reach me **redmoonstonee@gmail.com**
 ---
 
 ### 🛠️ Languages and Tools
@@ -77,18 +81,11 @@ I utilize a broad spectrum of technologies for development, infrastructure, and 
 
 ### 📊 My GitHub Activity
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=QurolVoV&show_icons=true&locale=en&theme=vision-friendly-dark&hide_title=true&count_private=true" alt="QurolVoV - GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QurolVoV&theme=dark" alt="QurolVoV - Streak Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QurolVoV&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=6" alt="QurolVoV - Top Languages" />
-</p>
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=QurolVoV&no-bg=true" alt="QurolVoV Trophy" />
-    </a> 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QurolVoV&show_icons=true&locale=en&layout=compact" alt="QurolVoV" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QurolVoV&show_icons=true&locale=en" alt="QurolVoV" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QurolVoV&" alt="QurolVoV" /></p>
 
 ---
 
