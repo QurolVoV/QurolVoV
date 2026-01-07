@@ -1,6 +1,6 @@
 # Hi 👋, I'm QurolVoV
 
-### A seasoned Python developer | 👨‍💻 Developer & Creator | 🛡️ Cyber Security Specialist | IT since 2005
+### A seasoned Python developer | 👨‍💻 Developer & Creator | 🛡️ Cyber Security Specialist & Researcher | IT since 2005 | EDR Detection & Evasion | Python & Low-Level Coding
 > Welcome to my space. I leverage two decades of IT experience to focus on building and securing resilient systems.
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QurolVoV&label=Profile views&color=0e75b6&style=flat" alt="QurolVoV" /> </p>
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/QurolVoV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="QurolVoV" height="30" width="40" /></a>
-<a href="https://instagram.com/veiluponveil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veiluponveil" height="30" width="40" /></a>
+<a href="https://instagram.com/brickcase2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brickcase2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
