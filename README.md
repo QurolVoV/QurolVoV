@@ -1,7 +1,12 @@
 # Hi 👋, I'm QurolVoV
 
-### A seasoned Python developer | 👨‍💻 Developer & Creator | 🛡️ Cyber Security Specialist & Researcher | IT since 2005 | EDR Detection & Evasion | Python & Low-Level Coding
-> Welcome to my space. I leverage two decades of IT experience to focus on building and securing resilient systems.
+### Python Security Developer | 👨‍💻 Developer & Creator | 🛡️ Security Experimentation | EDR Telemetry Research | Systems-Aware Scripting
+> Welcome to my space. I focus on building and securing resilient systems through hands-on security experimentation, informed by long-term experience in IT environments.
+>
+> My work explores evasion techniques and detection limitations to better understand EDR telemetry behavior in controlled, defensive-oriented scenarios.
+>
+> I build experimental security tooling primarily in Python, with working knowledge of C++ and assembly for systems-level analysis.
+
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QurolVoV&label=Profile views&color=0e75b6&style=flat" alt="QurolVoV" /> </p>
 
