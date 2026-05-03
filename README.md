@@ -1,39 +1,57 @@
-# Hi 👋, I'm QurolVoV
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0033&center=true&vCenter=true&width=900&lines=QurolVoV;Security+Researcher;EDR+Telemetry+Explorer;Python+Toolsmith;Systems+Under+The+Microscope" />
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:400000&height=160&section=header"/> </p> <h1 align="center">🩸 QUROLVOV</h1> <h3 align="center">Offensive Security • Detection Engineering • Systems Internals</h3>
+🌿 Welcome to my space
 
-### Python Security Developer | 👨‍💻 Developer & Creator | 🛡️ Security Experimentation | EDR Telemetry Research | Systems-Aware Scripting
-> Welcome to my space. I focus on building and securing resilient systems through hands-on security experimentation, informed by long-term experience in IT environments.
->
-> My work explores evasion techniques and detection limitations to better understand EDR telemetry behavior in controlled, defensive-oriented scenarios.
->
-> I build experimental security tooling primarily in Python, with working knowledge of C++ and assembly for systems-level analysis.
+I focus on building and securing resilient systems through hands-on security experimentation, informed by long-term experience in IT environments.
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QurolVoV&label=Profile views&color=0e75b6&style=flat" alt="QurolVoV" /> </p>
+My work explores evasion techniques and detection limitations to better understand EDR telemetry behavior in controlled, defensive-oriented scenarios.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QurolVoV" alt="QurolVoV" /></a> </p>
+I build experimental security tooling primarily in Python, with working knowledge of C++ and Assembly for systems-level analysis.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=QurolVoV&label=VISITORS&color=8b0000&style=for-the-badge"/> </p>
+🧠 WHOAMI
+> role: security researcher
+> domain: defensive experimentation
+> speciality: EDR telemetry & evasion behaviour
+> mindset: understand → simulate → strengthen
+🔬 CURRENT OPERATIONS
++ EDR Telemetry Research
++ Detection Engineering & Threat Simulation
++ Security Tool Development (Python)
++ Phoenix / Elixir Distributed Systems
++ Cloud & DevOps Architecture Exploration
+🕸 WRITING NODE
 
-### 🚀 About Me
+📝 I sometimes write articles on
+🔗 https://linktr.ee/veiluponveil
 
-* ⚡ **Fun Fact:** Seeing is believing, for your self only.
-* 📝 **Writing:** I sometimes write articles on **[VeilUponVeil](http://linktr.ee/veiluponveil)**.
-* 🚀 **Current Focus:** Developing high-performance, fault-tolerant applications using **Phoenix Framework** and **Elixir**.
-* 🌐 **Currently Exploring:** New cloud architectures and efficient development pipelines.
-* 🌱 **Looking to Collaborate** on projects involving.
-- 📫 How to reach me **redmoonstonee@gmail.com**
----
+Truth exists in telemetry.
+📡 CONTACT CHANNEL
+<p align="center"> <a href="https://github.com/QurolVoV"><img src="https://skillicons.dev/icons?i=github" height="45"/></a> <a href="https://instagram.com/brickcase2"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a> </p> <p align="center"> 📫 redmoonstonee@gmail.com </p>
+⚔️ TECH ARSENAL
+Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,c,go,java,js,php,bash,kotlin,dart"/> </p>
+Frameworks & Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react,nextjs,vue,laravel,tailwind"/> </p>
+Cloud • DevOps • Infra
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,firebase"/> </p>
+Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/> </p>
+Environment & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,git,blender,photoshop,illustrator"/> </p>
+🏆 TROPHIES
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=QurolVoV&theme=darkhub&no-frame=true&row=1&column=7"/> </p>
+📊 TELEMETRY DASHBOARD
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=QurolVoV&show_icons=true&theme=radical&hide_border=true"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=QurolVoV&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QurolVoV&layout=compact&theme=radical&hide_border=true"/> </p>
+🤝 OPEN FOR COLLABORATION
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/QurolVoV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="QurolVoV" height="30" width="40" /></a>
-<a href="https://instagram.com/brickcase2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brickcase2" height="30" width="40" /></a>
-</p>
+Interested in collaborating on:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sketch" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QurolVoV&show_icons=true&locale=en&layout=compact" alt="QurolVoV" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QurolVoV&show_icons=true&locale=en" alt="QurolVoV" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QurolVoV&" alt="QurolVoV" /></p>
+Security tooling & research
+Detection engineering
+Backend / distributed systems
+Experimental & lab projects
+🩸 FINAL NOTE
+Break assumptions.
+Observe behaviour.
+Build stronger defenses.
